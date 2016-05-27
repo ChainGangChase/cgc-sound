@@ -1,0 +1,25 @@
+{
+  "name": "cgc-sound",
+  "version": "0.1.0",
+  "description": "Packed sound files for ChainGangChase/game.",
+  "files": [
+    "package"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChainGangChase/cgc-art.git"
+  },
+  "keywords": [
+    "sound",
+    "effects",
+    "video",
+    "game",
+    "music"
+  ],
+  "author": "Percipient24",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChainGangChase/cgc-sound/issues"
+  },
+  "homepage": "https://github.com/ChainGangChase/cgc-sound#readme"
+}
